@@ -66,3 +66,5 @@
 .contact-email { display:inline-block; margin-top:22px; color:inherit; text-decoration:none; font-weight:700; font-size:1.05rem; }
 .contact-email:hover { text-decoration:underline; }
 @media (max-width: 800px) { .warehouse-main { max-width:100%; } }
+
+.cta-actions{display:flex;justify-content:center;align-items:center;gap:18px;flex-wrap:wrap;margin-top:28px}.cta-actions .contact-email{margin-top:0}.cta-actions .btn{display:inline-block}
